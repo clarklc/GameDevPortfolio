@@ -1,5 +1,5 @@
 # GameDevPortfolio
-A portfolio of media and art from personal W.I.P. game dev projects.
+A portfolio of media and art from personal W.I.P. game dev projects by Lewis Clark
 
 These include characters and NPCs from:
 
